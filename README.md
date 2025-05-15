@@ -1,1 +1,1 @@
-# EmpireC2 Research Project
+# Empire Research Project
